@@ -7,11 +7,11 @@
  */
 
 import React from 'react';
-import type {Node} from 'react';
+
 import {StatusBar} from 'react-native';
 import Home from "./Home";
 
-const App: () => Node = () => {
+const App = () => {
  
   return (
      <>
